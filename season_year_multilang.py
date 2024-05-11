@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 # Wordlist Generator: season, year, many languages
+# Generated lists take about 1Gb of disk space per language
 
 import itertools
 
